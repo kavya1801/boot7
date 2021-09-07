@@ -1,0 +1,19 @@
+#head{
+    max-width: 100%;
+    width: 1550px;
+    height:140px;
+    background-color: #16336d;
+}
+#set a{
+    color:white;
+    text-decoration: none;
+}
+#set a:hover{
+    color:goldenrod;
+}
+.navbar{
+    width:1520px;
+}
+footer p{
+    font-size: 18px;
+}
